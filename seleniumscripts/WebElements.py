@@ -24,10 +24,10 @@ paddingData=username.value_of_css_property("padding")
 print(attrType)
 print(paddingData)
 
-username.send_keys("murodjoni@aol.com")
+username.send_keys("xxxxxxxxxxx")
 
 password=driver.find_element_by_name("password")
-password.send_keys("NGg7GDJbT6CC")
+password.send_keys("xxxxxxxxxxx")
 
 loginButton=driver.find_element_by_class_name("btn")
 loginButton.click()
